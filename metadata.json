@@ -1,0 +1,5 @@
+{
+  "name": "Company Car Manager",
+  "description": "A web application to manage company car bookings and logs, including driving history and fueling records. Features user and admin roles for comprehensive vehicle management.",
+  "requestFramePermissions": []
+}
